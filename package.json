@@ -43,7 +43,7 @@
     "redux-promise-middleware": "6.1.1",
     "redux-thunk": "2.3.0",
     "webpack": "4.35.2",
-    "webpack-cli": "3.3.5"
+    "webpack-cli": "3.3.12"
   },
   "dependencies": {
     "@material-ui/core": "^4.1.3",
